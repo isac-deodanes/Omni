@@ -1,0 +1,9 @@
+.seccion{
+    display: flex;
+    gap: 16px;
+}
+
+.contenedor__item{
+    display: flex;
+    gap: 8px;
+}
